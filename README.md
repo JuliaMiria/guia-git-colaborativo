@@ -8,3 +8,10 @@
 
 este repositório contem um resumo colaborativo dos principais conceitos do git e GitHub
 
+### Conceitos basicos de git 
+repositorio 
+commit 
+branch
+merge
+
+
