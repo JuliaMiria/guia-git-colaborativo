@@ -22,3 +22,11 @@ merge
 5. git push
 6. git pull
 
+##Comandos Essenciais
+
+git clone
+git status
+git add
+git commit
+git push
+git pull
